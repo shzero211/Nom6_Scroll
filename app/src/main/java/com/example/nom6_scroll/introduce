@@ -1,0 +1,5 @@
+스크롤뷰는 자식이 하나여야 하기때문에 linear에 넣어준다.
+
+listview에서는 데이터를 adapter를 이용하여 연결해주어야 한다.
+
+item_weather는 listview 하나의 데이터의 xml
